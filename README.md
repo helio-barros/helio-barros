@@ -2,8 +2,8 @@
 
 
 🌍 Apaixonado por Tecnologia
-👩🏼‍💻 Analista de Infraestrutura at [https://ale.com.br)
-🎓 Curso Ciência e Tecnologia at [https://www.ect.ufrn.br/)
+👩🏼‍💻 Analista de Infraestrutura at https://ale.com.br
+🎓 Curso Ciência e Tecnologia at https://www.ect.ufrn.br/
 🚀 Com sede por aprender cada dia mais tecnologias
 
 <!--
