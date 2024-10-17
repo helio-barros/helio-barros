@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Olá, eu sou Hélio Barros!</h1>
 
 - 🌍 Apaixonado por Tecnologia
-- 👩🏼‍💻 Analista de Infraestrutura na [Ale](https://ale.com.br)
+- 👩🏼‍💻 Analista de Infraestrutura na [ALE Combustíveis S.A](https://ale.com.br)
 - 🎓 Estudante de Ciência e Tecnologia na [ECT-UFRN](https://www.ect.ufrn.br)
 - 🚀 Com sede por aprender cada dia mais sobre novas tecnologias
 <!--
