@@ -5,9 +5,11 @@
 - 🎓 Estudante de Ciência e Tecnologia na [ECT-UFRN](https://www.ect.ufrn.br)
 - 🚀 Com sede por aprender cada dia mais sobre novas tecnologias
   
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl2bXBlNnppODFpMHEzMmt0MXoxNmE4cThxejlvYWpiNGN0dzZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250" style="margin-left: 20px;">
+
 
 ### Habilidades Técnicas
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl2bXBlNnppODFpMHEzMmt0MXoxNmE4cThxejlvYWpiNGN0dzZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250" style="margin-left: 20px;">
 
 <sub>🖥️ **Gerenciamento de Infraestrutura**  
    Microsoft System Center, Active Directory, Virtualização (VMware, Hyper-V)</sub>
