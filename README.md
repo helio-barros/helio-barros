@@ -1,10 +1,10 @@
 <h1 align="center">👋🏻 Olá, eu sou Hélio Barros!</h1>
 
 
-🌍 Apaixonado por Tecnologia
-👩🏼‍💻 Analista de Infraestrutura at https://ale.com.br
-🎓 Curso Ciência e Tecnologia at https://www.ect.ufrn.br/
-🚀 Com sede por aprender cada dia mais tecnologias
+🌍 Apaixonado por Tecnologia;
+👩🏼‍💻 Analista de Infraestrutura at https://ale.com.br;
+🎓 Curso Ciência e Tecnologia at https://www.ect.ufrn.br/;
+🚀 Com sede por aprender cada dia mais tecnologias.
 
 <!--
 **helio-barros/helio-barros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
