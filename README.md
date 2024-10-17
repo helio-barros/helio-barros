@@ -6,6 +6,7 @@
 - 🚀 Com sede por aprender cada dia mais sobre novas tecnologias
   
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl2bXBlNnppODFpMHEzMmt0MXoxNmE4cThxejlvYWpiNGN0dzZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250" style="margin-left: 10px;">
+
 ### Habilidades Técnicas
 
 <sub>🖥️ **Gerenciamento de Infraestrutura**  
